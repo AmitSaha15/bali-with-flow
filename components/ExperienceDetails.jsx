@@ -6,7 +6,7 @@ import BookingInfo from "./BookingInfo";
 
 const ExperienceDetails = () => {
   return (
-    <div className="space-y-6 md:space-y-8">
+    <div className="container mx-auto space-y-6 md:space-y-8 px-4">
       <h1 className="text-2xl md:text-[32px] font-bold text-[#384B40] leading-tight">
         Experience a Day with a Balinese Family
       </h1>
